@@ -1,0 +1,9 @@
+# Specify the default owners for the entire repository
+*       @mesilicon7
+
+# Specify owners for specific directories
+/app/   @mesilicon7
+/functions/ @mesilicon7
+
+# Specify owners for specific files
+README.md @mesilicon7
